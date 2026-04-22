@@ -24,8 +24,8 @@ Sou um desenvolvedor focado em soluções eficientes, com experiência que vai d
 ---
 
 ### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1rcio-junior-219818125/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jralmeiida100@gmail.com)
 
 ---
 *“Transformando problemas complexos em código simples e eficiente.”*
